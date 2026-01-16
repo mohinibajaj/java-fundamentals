@@ -15,7 +15,8 @@ public class ImmutuableMapDemo {
 
         System.out.println(map);
 
-        // we can make this map as immutable but we created a view of the original map
+        // we can make this map as immutable using Collections.unmodifiableMap method
+        // but we created a view of the original map
         // it is risky, it creates two copies.
 
 //       Map<Integer, String> immutuableMap = Collections.unmodifiableMap(map);
