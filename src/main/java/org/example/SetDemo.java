@@ -20,6 +20,7 @@ public class SetDemo {
         set2.add(100);
         set2.add(11);
         set2.add(1);
+//        set2.add(null);
 
         NavigableSet<Integer> set3 = new TreeSet<>();
         set3.add(11);
