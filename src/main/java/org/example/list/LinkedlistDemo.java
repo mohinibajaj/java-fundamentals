@@ -1,9 +1,9 @@
-package org.example;
+package org.example.list;
 
 import java.util.Arrays;
 import java.util.LinkedList;
 
-public class LinkedInDemo {
+public class LinkedlistDemo {
 
     public static void main(String[] args) {
         LinkedList<Integer> list = new LinkedList<>();

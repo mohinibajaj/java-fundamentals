@@ -1,4 +1,4 @@
-package org.example;
+package org.example.set;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentSkipListSet;

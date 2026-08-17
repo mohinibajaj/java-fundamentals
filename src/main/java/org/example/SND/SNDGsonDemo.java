@@ -1,6 +1,7 @@
-package org.example;
+package org.example.SND;
 
 import com.google.gson.Gson;
+import org.example.User;
 
 public class SNDGsonDemo {
     public static void main(String[] args) {

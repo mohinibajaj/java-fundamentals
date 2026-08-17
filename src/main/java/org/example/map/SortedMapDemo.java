@@ -1,4 +1,4 @@
-package org.example;
+package org.example.map;
 
 import java.util.SortedMap;
 import java.util.TreeMap;

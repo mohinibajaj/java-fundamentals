@@ -1,6 +1,6 @@
-package org.example;
+package org.example.Interface;
 
-public class InterfaceExample implements  InterfaceDemo{
+public class InterfaceExample implements InterfaceDemo {
 
     public static void main(String[] args) {
 

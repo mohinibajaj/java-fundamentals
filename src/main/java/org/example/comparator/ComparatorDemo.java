@@ -1,7 +1,8 @@
-package org.example;
+package org.example.comparator;
+
+import org.example.User;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class ComparatorDemo {

@@ -1,6 +1,5 @@
-package org.example;
+package org.example.map;
 
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
